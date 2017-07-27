@@ -1,0 +1,11 @@
+5 10
+..$..#..$.
+.#...$...$
+.L..#..#..
+$....#....
+..#...$.$.
+Jiban Jb1 FFFEFFEFFDFFF
+Jaspion Ja1 DFFEEFFFDFFFF
+Jiraia Jr1 EFFEEFFFFEFFF
+Jaspion Ja2 FFFDFFFDFFFDFFF
+0
